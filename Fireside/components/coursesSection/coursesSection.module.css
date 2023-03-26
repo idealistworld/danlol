@@ -1,0 +1,22 @@
+#coursesContainer {
+  background-color: #FFFAF2;
+  display: flex;
+  padding: 50px;
+  flex-direction: column;
+}
+
+#courseTitle {
+  font-size: 50px;
+  color: #3C3C3C;
+}
+
+#courseParagraph {
+  margin: 20px 0;
+  color: #5B5B5B;
+  font-weight: 200;
+}
+
+#courseCardContainer {
+  display: flex;
+  overflow: scroll;
+}
